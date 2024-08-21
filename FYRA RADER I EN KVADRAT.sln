@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FYRA RADER I EN KVADRAT", "FYRA RADER I EN KVADRAT\FYRA RADER I EN KVADRAT.csproj", "{9035A595-8478-4369-98F0-DFB38FC3BD41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9035A595-8478-4369-98F0-DFB38FC3BD41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9035A595-8478-4369-98F0-DFB38FC3BD41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9035A595-8478-4369-98F0-DFB38FC3BD41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9035A595-8478-4369-98F0-DFB38FC3BD41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEB86A7D-A778-4084-84DB-4AD4EC2CB671}
+	EndGlobalSection
+EndGlobal
